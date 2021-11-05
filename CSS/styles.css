@@ -2,9 +2,18 @@ body {
     background-color: #43B930;
 }
 
-.navh1 {
-    color: white;
+.myimage {
+    padding-top: 20px !important;
 }
+
+.aboutme {
+    padding: 10px;
+}
+
+
+/* .navh1 {
+    color: white;
+} */
 
 
 /* 
