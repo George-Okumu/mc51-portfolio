@@ -6,6 +6,9 @@ Clone the project
 cd into the project folder
 Go to live server
 
+# Live Link
+https://george-okumu.github.io/mc51-portfolio/
+
 # Languages Used
  HTMl
 CSS
